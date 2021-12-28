@@ -1,0 +1,14 @@
+{
+  "name": "retro-monit",
+  "version": "0.0.0",
+  "description": "Monitoring webserver for RetroPie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Gisi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
